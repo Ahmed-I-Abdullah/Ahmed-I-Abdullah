@@ -1,6 +1,6 @@
 ### Hello!
 
-I'm Ahmed Abdullah and I'm currently a final year SWE student at the Univeristy of Calgary. Feel free to reach out on Linkedin for career stuff or just to chat!
+I'm Ahmed Abdullah and I'm currently a final year SWE student at the Univeristy of Calgary. Feel free to reach out on LinkedIn for career stuff or just to chat!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-i-abdullah/)
 
