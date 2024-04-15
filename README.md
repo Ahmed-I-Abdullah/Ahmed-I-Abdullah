@@ -9,8 +9,6 @@ I'm Ahmed Abdullah and I'm currently a final year SWE student at the Univeristy 
 <a href="https://github.com/Ahmed-I-Abdullah/Ahmed-I-Abdullah">
   <img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-I-Abdullah&theme=dark" />
 </a>
-
-![Profile views counter](https://komarev.com/ghpvc/?username=Ahmed-I-Abdullah&&style=flat-square)  
 <!--
 **Ahmed-I-Abdullah/Ahmed-I-Abdullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
