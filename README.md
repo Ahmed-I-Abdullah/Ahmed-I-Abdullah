@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there! I'm Ahmed Abdullah
+
+I'm currently a final year software engineering student at the Univeristy of Calgary. Feel free to reach out on linked in for career stuff or just to chat!
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-i-abdullah/)
 
 <!--
 **Ahmed-I-Abdullah/Ahmed-I-Abdullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +18,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-I-Abdullah)](https://github.com/anuraghazra/github-readme-stats)
