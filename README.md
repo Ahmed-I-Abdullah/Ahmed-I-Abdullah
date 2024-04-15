@@ -4,7 +4,7 @@ I'm Ahmed Abdullah and I'm currently a final year SWE student at the Univeristy 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-i-abdullah/)
 
-## &#x1f4c8; GitHub Stats
+## GitHub Stats
 
 <a href="https://github.com/Ahmed-I-Abdullah/Ahmed-I-Abdullah">
   <img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-I-Abdullah&theme=dark" />
