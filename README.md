@@ -1,4 +1,4 @@
-### Hi there 🙋🏻‍♂️! 
+### Hi there 🙋🏻‍♂️
 
 I'm Ahmed Abdullah and I'm currently a final year software engineering student at the Univeristy of Calgary. Feel free to reach out on linked in for career stuff or just to chat!
 
