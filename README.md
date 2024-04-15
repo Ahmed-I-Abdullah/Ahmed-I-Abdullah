@@ -1,6 +1,6 @@
-### Hi there 🙋🏻‍♂️! I'm Ahmed Abdullah
+### Hi there 🙋🏻‍♂️! 
 
-I'm currently a final year software engineering student at the Univeristy of Calgary. Feel free to reach out on linked in for career stuff or just to chat!
+I'm Ahmed Abdullah and I'm currently a final year software engineering student at the Univeristy of Calgary. Feel free to reach out on linked in for career stuff or just to chat!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-i-abdullah/)
 
